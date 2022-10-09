@@ -64,7 +64,7 @@ class CupertinoThumbPainter {
   final List<BoxShadow> shadows;
 
   /// Half the default diameter of the thumb.
-  static const double radius = 14.0;
+  static const double radius = 12.0;
 
   /// The default amount the thumb should be extended horizontally when pressed.
   static const double extension = 7.0;
